@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LauraZaharia
 - 👀 I’m interested in data and engineering
-- 🌱 I’m currently learning some Kubernetes
+- 🌱 I’m currently learning CI/CD and Pytest
 
 <!---
 LauraZaharia/LauraZaharia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
